@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 ### IntelliJ IDEA ###
 .idea
 
+=======
+*.ipr
+>>>>>>> master
